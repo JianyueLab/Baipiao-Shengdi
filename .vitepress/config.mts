@@ -13,9 +13,17 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '服务',
+        text: 'MCSM',
+        collapsed: false,
         items: [
           { text: 'AWA.MS 域名邮箱', link: '/mcsm/awams_email' },
+        ]
+      },
+      {
+        text: '其他',
+        collapsed: false,
+        items: [
+          { text: '如何贡献', link: '/how_to_contribute' },
         ]
       }
     ],
