@@ -1,10 +1,11 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "群友攻略",
   description: "一个白嫖群友的攻略",
   themeConfig: {
+    lastUpdated: true,
+
     nav: [
       { text: 'Home', link: '/' },
     ],
@@ -18,6 +19,10 @@ export default defineConfig({
         ]
       }
     ],
+
+    editLink: {
+      pattern: 'https://github.com/JianyueLab/Baipiao-Shengdi/tree/main/:path'
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/JianyueLab/Baipiao-Shengdi' }
