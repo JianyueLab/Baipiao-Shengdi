@@ -7,15 +7,15 @@ export default defineConfig({
     lastUpdated: true,
 
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '首页', link: '/' },
+      { text: '如何贡献', link: '/how_to_contribute' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '服务',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'AWA.MS 域名邮箱', link: '/mcsm/awams_email' },
         ]
       }
     ],

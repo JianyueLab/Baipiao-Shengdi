@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -8,6 +7,7 @@ hero:
   tagline: 如何白嫖群友？
 
 features:
+  - title: 如何快速高效的白嫖群友的服务。
   - title: 水友签到页
     details: 前往签到！
     link: /checkin
