@@ -24,6 +24,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '如何贡献', link: '/how_to_contribute' },
+          { text: '有贡献的群友', link: '/checkin' },
         ]
       }
     ],
