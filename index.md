@@ -5,7 +5,7 @@ hero:
   name: 群友攻略
   text: 一个白嫖群友的攻略
   tagline: 如何白嫖群友？
-  action: 
+  actions: 
     - theme: brand
       text: 开始白嫖
       link: /mcsm/awams_email
