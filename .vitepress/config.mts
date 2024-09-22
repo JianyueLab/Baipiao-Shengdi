@@ -13,9 +13,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "MCSM",
+        text: "JianyueLab",
         collapsed: false,
-        items: [{ text: "AWA.MS 域名邮箱", link: "/mcsm/awams_email" }],
+        items: [{ text: "AWA.MS 域名邮箱", link: "/jianyuelab/awams_email" }],
       },
       {
         text: "E5",
