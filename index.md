@@ -8,7 +8,7 @@ hero:
   actions: 
     - theme: brand
       text: 开始白嫖
-      link: /mcsm/awams_email
+      link: /jianyuelab/awams_email
         
 features:
   - title: 如何快速高效的白嫖群友的服务。
